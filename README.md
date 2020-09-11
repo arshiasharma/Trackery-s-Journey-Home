@@ -1,2 +1,2 @@
-# Trackery-s-Journey-Home
+# Trackerys-Journey-Home
 Sole Unity medival-themed project 
